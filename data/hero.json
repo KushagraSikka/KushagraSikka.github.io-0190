@@ -1,0 +1,49 @@
+{
+  "_instructions": "Hero section content - the first thing visitors see on your portfolio.",
+  "greeting": "Hi, I'm",
+  "name": "Shabnam Rani",
+  "title": "Business Analyst",
+  "summary": "Detail-oriented Business Analyst with 3+ years of experience in insurance and risk domains, supporting enterprise-level\ndigital transformation and process optimization initiatives. Skilled in gathering and translating complex business\nrequirements into actionable deliverables including BRDs, FRDs, and SRS documents. Proficient in analysis using SQL, Python\nscripting, and Bl tools like Power BI and Tableau to drive insights, optimize workflows, and support strategic decisions.",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "text": "Professional Experience"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "Technical Expertise"
+    },
+    {
+      "icon": "fas fa-users",
+      "text": "Team Collaboration"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View My Work",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shabnam-rani-61821b145",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:shabnamr214@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

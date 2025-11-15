@@ -1,0 +1,24 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "school": "Central Michigan University, Mount Pleasant, Michigan, USA",
+      "institution": "Central Michigan University, Mount Pleasant, Michigan, USA",
+      "period": "Dec 2024",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "Bachelor of Science",
+      "school": "Maharishi Markandeshwar University, Mullana, Ambala, Haryana, India",
+      "institution": "Maharishi Markandeshwar University, Mullana, Ambala, Haryana, India",
+      "period": "May 2019",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": []
+}

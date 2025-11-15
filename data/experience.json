@@ -1,0 +1,53 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Business Analyst",
+      "company": "S&P Global, United States",
+      "period": "Jan 2025 - Current",
+      "location": "",
+      "description": "Collaborated with stakeholders across underwriting and claims to gather business requirements and translated them\ninto detailed BRD, FRD, and SRS documents, reducing manual processing time by 25%.\nConducted GAP and risk analysis for migrating legacy insurance systems to a cloud-based platform, resulting in a 22%\nreduction in manual reconciliation tasks.\nCollaborated with product owners and developers in Agile sprints to create detailed user stories and acceptance\ncriteria, tracked via Jira for traceability and sprint planning.\nDesigned interactive Power BI dashboards to visualize loss ratios, customer churn, claims processing KPIs and policy\ncoverage gaps, enabling executive-level decisions that improved customer retention by 15%.\nBuilt SQL queries to extract claims and policy data for ad-hoc reporting and deep-dive analysis, identifying discrepancies\nthat led to a 12% improvement in claims adjudication accuracy.\nSupported UAT by developing test scenarios, coordinating with QA, logging defects in HP Quality Center, and validating\nbusiness requirements against test outcomes.\nUtilized Microsoft Visio and Excel to model current vs. future state workflows to streamline auto claims workflows,\ncutting average cycle time by 18% through automation recommendations.",
+      "responsibilities": [
+        "Collaborated with stakeholders across underwriting and claims to gather business requirements and translated them",
+        "into detailed BRD, FRD, and SRS documents, reducing manual processing time by 25%",
+        "Conducted GAP and risk analysis for migrating legacy insurance systems to a cloud-based platform, resulting in a 22%",
+        "reduction in manual reconciliation tasks",
+        "Collaborated with product owners and developers in Agile sprints to create detailed user stories and acceptance",
+        "criteria, tracked via Jira for traceability and sprint planning",
+        "Designed interactive Power BI dashboards to visualize loss ratios, customer churn, claims processing KPIs and policy",
+        "coverage gaps, enabling executive-level decisions that improved customer retention by 15%",
+        "Built SQL queries to extract claims and policy data for ad-hoc reporting and deep-dive analysis, identifying discrepancies",
+        "that led to a 12% improvement in claims adjudication accuracy",
+        "Supported UAT by developing test scenarios, coordinating with QA, logging defects in HP Quality Center, and validating",
+        "business requirements against test outcomes",
+        "Utilized Microsoft Visio and Excel to model current vs",
+        "future state workflows to streamline auto claims workflows,",
+        "cutting average cycle time by 18% through automation recommendations"
+      ]
+    },
+    {
+      "title": "Junior Business Analyst",
+      "company": "Gainwell Technologies, India",
+      "period": "May 2021 - Jul 2023",
+      "location": "",
+      "description": "Participated in requirements gathering sessions with underwriters and claims managers to capture functional needs for\nan internal risk assessment portal.\nCreated process models and workflow diagrams in Microsoft Visio, enabling a visual understanding of risk categorization\nand escalation procedures across departments.\nDeveloped and maintained RTMs and assisted in preparing SRS documentation, ensuring traceability of requirements\nacross development and QA cycles.\nPerformed cost-benefit and impact analysis for digitizing customer onboarding workflows, which informed leadership\ndecisions on resource allocation.\nPerformed A/B testing impact analysis on customer onboarding Ul variations using SQL-based segmentation, improving\nform completion rate by 21%.\nSupported UAT execution by creating test cases, gathering feedback from business users, and working with QA to log\nand track defects until resolution.\nWrote complex SQL queries to support data profiling and validation for a large-scale regulatory compliance project,\nhelping reduce data quality issues by 28%.",
+      "responsibilities": [
+        "Participated in requirements gathering sessions with underwriters and claims managers to capture functional needs for",
+        "an internal risk assessment portal",
+        "Created process models and workflow diagrams in Microsoft Visio, enabling a visual understanding of risk categorization",
+        "and escalation procedures across departments",
+        "Developed and maintained RTMs and assisted in preparing SRS documentation, ensuring traceability of requirements",
+        "across development and QA cycles",
+        "Performed cost-benefit and impact analysis for digitizing customer onboarding workflows, which informed leadership",
+        "decisions on resource allocation",
+        "Performed A/B testing impact analysis on customer onboarding Ul variations using SQL-based segmentation, improving",
+        "form completion rate by 21%",
+        "Supported UAT execution by creating test cases, gathering feedback from business users, and working with QA to log",
+        "and track defects until resolution",
+        "Wrote complex SQL queries to support data profiling and validation for a large-scale regulatory compliance project,",
+        "helping reduce data quality issues by 28%"
+      ]
+    }
+  ]
+}

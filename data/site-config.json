@@ -1,0 +1,18 @@
+{
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "Shabnam Rani | Business Analyst",
+    "description": "Shabnam Rani - Business Analyst | Portfolio",
+    "author": "Shabnam Rani",
+    "keywords": "Business Analyst, Portfolio, Shabnam Rani"
+  },
+  "branding": {
+    "name": "Shabnam Rani",
+    "tagline": "Business Analyst"
+  },
+  "settings": {
+    "year": 2025,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
+  }
+}

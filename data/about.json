@@ -1,0 +1,25 @@
+{
+  "_instructions": "About section content - tell your professional story and showcase key metrics.",
+  "sectionTitle": "About Me",
+  "content": [
+    "Detail-oriented Business Analyst with 3+ years of experience in insurance and risk domains, supporting enterprise-level\ndigital transformation and process optimization initiatives. Skilled in gathering and translating complex business\nrequi",
+    "rements into actionable deliverables including BRDs, FRDs, and SRS documents. Proficient in analysis using SQL, Python\nscripting, and Bl tools like Power BI and Tableau to drive insights, optimize workflows, and support strategic decisions."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "title": "2+",
+      "description": "Companies"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "title": "0+",
+      "description": "Project"
+    },
+    {
+      "icon": "fas fa-code",
+      "title": "36+",
+      "description": "Skills"
+    }
+  ]
+}
